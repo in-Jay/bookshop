@@ -23,7 +23,7 @@
 ![Image](https://github.com/user-attachments/assets/ad7a4cd1-dc03-4622-861d-71511994c6ac)
 <br><br><br>
 **로그인 페이지**
-![Image](https://github.com/user-attachments/assets/46346ee7-c5bb-48c6-a1eb-26db28f9adbc)
+![Image](https://github.com/user-attachments/assets/9b56253d-5faf-4d84-8cb1-2fa5e0573ce5)
 <br><br><br>
 **회원가입 페이지**
 ![Image](https://github.com/user-attachments/assets/e2178595-36be-4168-adf3-f46e049da0aa)
