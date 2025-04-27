@@ -18,7 +18,6 @@
 - CSS
 <br><br>
 ## 홈페이지 이미지
-<br><br>
 **메인 페이지**
 <br><br>
 ![Image](https://github.com/user-attachments/assets/ad7a4cd1-dc03-4622-861d-71511994c6ac)
